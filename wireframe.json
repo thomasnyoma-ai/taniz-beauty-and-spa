@@ -1,0 +1,536 @@
+{
+  "version": 4,
+  "app_title": "Taniz Beauty & Spa",
+  "nav": {
+    "placement": "none",
+    "items": []
+  },
+  "pages": [
+    {
+      "id": "page-fd362e98",
+      "name": "Home",
+      "route": "/",
+      "item_ref": null,
+      "blocks": [
+        {
+          "id": "blk-1b37c3e4",
+          "type": "header",
+          "label": "Taniz site header",
+          "hint": "Logo at left; Book now button and closed menu control at right.",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-96871df7",
+          "type": "hero",
+          "label": "A little pause. A more beautiful you.",
+          "hint": "Welcome text, booking and Explore treatments links, and Gwarinpa location.",
+          "x": 0,
+          "y": 1,
+          "w": 6,
+          "h": 8,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-c5f062aa",
+          "type": "image",
+          "label": "Spa still-life",
+          "hint": "Large editorial still-life image with a short caption beneath it.",
+          "x": 6,
+          "y": 3,
+          "w": 6,
+          "h": 8,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-e573e33f",
+          "type": "section",
+          "label": "The treatment edit",
+          "hint": "Section heading and short introduction to featured treatments.",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-d8f06ebc",
+          "type": "card_grid",
+          "label": "Featured treatments",
+          "hint": "Three side-by-side treatment cards: Basic Facial, Swedish Massage, and Classic Pedicure, with descriptions, prices, and booking links.",
+          "x": 0,
+          "y": 14,
+          "w": 12,
+          "h": 6,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-0caed232",
+          "type": "text",
+          "label": "All treatments link",
+          "hint": "Short note and link to view all treatments and prices.",
+          "x": 0,
+          "y": 20,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-7778655f",
+          "type": "section",
+          "label": "A little about Taniz",
+          "hint": "About text and two care highlights covering treatment choice and online appointments.",
+          "x": 0,
+          "y": 22,
+          "w": 12,
+          "h": 6,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-69db13f2",
+          "type": "section",
+          "label": "Your care, your way",
+          "hint": "Discovery section introduction for products, the spa experience, and visiting Taniz.",
+          "x": 0,
+          "y": 28,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-0d4cc62a",
+          "type": "card_grid",
+          "label": "More to discover",
+          "hint": "Side-by-side product collection preview and spa gallery preview with image, descriptions, and links.",
+          "x": 0,
+          "y": 30,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-623783ca",
+          "type": "section",
+          "label": "Find us in Gwarinpa",
+          "hint": "Address and opening-hours summary with a Plan your visit link.",
+          "x": 0,
+          "y": 37,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-a6865b0d",
+          "type": "footer",
+          "label": "Footer",
+          "hint": "Only a narrow dark strip of the footer is visible at the bottom of the captured screenshot.",
+          "x": 0,
+          "y": 39,
+          "w": 12,
+          "h": 1,
+          "item_ref": null,
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-673b3156",
+      "name": "Treatments",
+      "route": "/treatments",
+      "item_ref": null,
+      "blocks": [
+        {
+          "id": "blk-aa9af230",
+          "type": "header",
+          "label": "Taniz site header",
+          "hint": "Logo at left; Book now button and closed menu control at right.",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-468dda5a",
+          "type": "hero",
+          "label": "Your care. Your moment.",
+          "hint": "Home link, complete treatment menu heading, introduction, and Book on Setmore button.",
+          "x": 0,
+          "y": 2,
+          "w": 12,
+          "h": 5,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-b210c359",
+          "type": "nav",
+          "label": "Treatment categories",
+          "hint": "Pill-shaped jump links for Facial Treatments, Body Treatment, Massages, Waxing, Lashes, Piercings, Mani & Pedi, and Veejay Steaming.",
+          "x": 0,
+          "y": 7,
+          "w": 12,
+          "h": 1,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-7b286dcb",
+          "type": "text",
+          "label": "Treatment pricing note",
+          "hint": "Note that prices are in Nigerian naira and should be confirmed on Setmore.",
+          "x": 0,
+          "y": 8,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-fa437660",
+          "type": "table",
+          "label": "01 · Facial Treatments",
+          "hint": "Treatment, duration, NGN price, and booking columns; five facial services are visible.",
+          "x": 0,
+          "y": 11,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-1e93435e",
+          "type": "table",
+          "label": "02 · Body Treatment",
+          "hint": "Treatment, duration, NGN price, and booking columns; three body treatments are visible.",
+          "x": 0,
+          "y": 19,
+          "w": 12,
+          "h": 5,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-d77caeb0",
+          "type": "table",
+          "label": "03 · Massages",
+          "hint": "Treatment, duration, NGN price, and booking columns; five massage services are visible.",
+          "x": 0,
+          "y": 25,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-84493fb4",
+          "type": "table",
+          "label": "04 · Waxing",
+          "hint": "Waxing service table begins below the massages; the first rows are visible and the rest continues beyond the screenshot.",
+          "x": 0,
+          "y": 33,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-25857940",
+      "name": "Products",
+      "route": "/products",
+      "item_ref": null,
+      "blocks": [
+        {
+          "id": "blk-bb2bc221",
+          "type": "header",
+          "label": "Taniz site header",
+          "hint": "Logo at left; Book now button and closed menu control at right.",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-c5dac327",
+          "type": "hero",
+          "label": "A little care. Beyond the spa.",
+          "hint": "Skincare collection introduction, category jump links, and note that product enquiries open WhatsApp and prices are not listed.",
+          "x": 0,
+          "y": 2,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-954a1072",
+          "type": "section",
+          "label": "01 · Face Care",
+          "hint": "Category heading and short description above the face-care products.",
+          "x": 0,
+          "y": 9,
+          "w": 12,
+          "h": 3,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-beeaf665",
+          "type": "card_grid",
+          "label": "Face-care products",
+          "hint": "Two-column grid of nine product cards, each with an Enquire on WhatsApp link.",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 9,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-e4f279d9",
+          "type": "section",
+          "label": "02 · Body Care",
+          "hint": "Category heading and short description above the body-care products.",
+          "x": 0,
+          "y": 24,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-017b706b",
+          "type": "card_grid",
+          "label": "Body-care products",
+          "hint": "Two-column grid of six product cards, each with an Enquire on WhatsApp link.",
+          "x": 0,
+          "y": 26,
+          "w": 12,
+          "h": 9,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-597db661",
+          "type": "section",
+          "label": "03 · Soaps & Scrubs",
+          "hint": "Soaps and scrubs category heading and description; the beginning of its product grid is visible at the bottom of the screenshot.",
+          "x": 0,
+          "y": 36,
+          "w": 12,
+          "h": 4,
+          "item_ref": null,
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-d9810af3",
+      "name": "Experience",
+      "route": "/experience",
+      "item_ref": null,
+      "blocks": [
+        {
+          "id": "blk-ce42b15f",
+          "type": "header",
+          "label": "Taniz site header",
+          "hint": "Logo at left; Book now button and closed menu control at right.",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-909a7818",
+          "type": "hero",
+          "label": "Step out of the rush. Into your moment.",
+          "hint": "Experience introduction, Find your moment on Setmore button, and Explore the gallery link.",
+          "x": 0,
+          "y": 2,
+          "w": 12,
+          "h": 8,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-9e89687d",
+          "type": "section",
+          "label": "Moments at Taniz",
+          "hint": "Gallery heading and short description above the photographs.",
+          "x": 0,
+          "y": 10,
+          "w": 12,
+          "h": 2,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-0fbcb459",
+          "type": "image",
+          "label": "Taniz gallery · 01",
+          "hint": "Large gallery photograph spanning the content width, with a caption beneath it.",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-180956a4",
+          "type": "card_grid",
+          "label": "Taniz gallery · 02–05",
+          "hint": "Four gallery photographs in a two-column grid, each with a short caption.",
+          "x": 0,
+          "y": 19,
+          "w": 12,
+          "h": 10,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-752d68ab",
+          "type": "text",
+          "label": "Public Setmore gallery link",
+          "hint": "Link beneath the photos to view the public Setmore gallery.",
+          "x": 0,
+          "y": 29,
+          "w": 12,
+          "h": 1,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-abd84b99",
+          "type": "section",
+          "label": "More than one way to take a pause",
+          "hint": "Treatment menu summary and link on the left; visit-planning card with appointment guidance and Book on Setmore button on the right.",
+          "x": 0,
+          "y": 31,
+          "w": 12,
+          "h": 9,
+          "item_ref": null,
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-45626da5",
+      "name": "Contact",
+      "route": "/contact",
+      "item_ref": null,
+      "blocks": [
+        {
+          "id": "blk-69bfb97c",
+          "type": "header",
+          "label": "Taniz site header",
+          "hint": "Logo at left; Book now button and closed menu control at right.",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-cdc9aefb",
+          "type": "hero",
+          "label": "Make room for your next pause.",
+          "hint": "Visit introduction, Book on Setmore button, and short booking note.",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 6,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-6bab60fd",
+          "type": "card_grid",
+          "label": "Contact Taniz",
+          "hint": "Three contact cards for phone, WhatsApp, and email, arranged in two columns with the third card on a new row.",
+          "x": 0,
+          "y": 7,
+          "w": 12,
+          "h": 8,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-056d0ecc",
+          "type": "section",
+          "label": "Find your way to Taniz",
+          "hint": "Address and driving directions on the left; opening-hours card with Monday–Saturday hours, Sunday closure, and notes on the right.",
+          "x": 0,
+          "y": 16,
+          "w": 12,
+          "h": 8,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-28c8746b",
+          "type": "section",
+          "label": "Meet us in Gwarinpa",
+          "hint": "Map section heading and Open directions in Google Maps link.",
+          "x": 0,
+          "y": 25,
+          "w": 12,
+          "h": 1,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-b6c5fd1b",
+          "type": "map",
+          "label": "Google map",
+          "hint": "Large embedded map area, shown as a blank warm-toned rectangle in the captured screenshot, with a note below.",
+          "x": 0,
+          "y": 26,
+          "w": 12,
+          "h": 7,
+          "item_ref": null,
+          "type_source": "palette"
+        },
+        {
+          "id": "blk-c9896fb5",
+          "type": "section",
+          "label": "Choose your kind of care",
+          "hint": "Appointment booking prompt with Book an appointment and Explore treatments & prices links.",
+          "x": 0,
+          "y": 35,
+          "w": 12,
+          "h": 5,
+          "item_ref": null,
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    }
+  ],
+  "attached_to_plan": false
+}

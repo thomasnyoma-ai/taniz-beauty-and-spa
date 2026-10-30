@@ -1,0 +1,5 @@
+## Taniz Beauty & Spa Website Plan
+- [x] Preserve the Taniz logo and vivid pink, near-black, white, and warm cream editorial design across responsive navigation and a complete treatments page, with the live Setmore service categories, durations, prices, and booking links.
+- [x] Add a skincare products page and a spa experience/gallery page using the draft’s product information and authentic publicly shown Taniz imagery, with enquiry links and no unverified reviews or claims.
+- [x] Complete the contact and visit page with confirmed address, hours, phone, email, WhatsApp, map and Setmore booking; update the homepage and shared navigation so every page connects naturally and works beautifully on mobile.
+- [ ] Add a validated contact form on the visit page for treatment or visit enquiries and email each successful submission to Taniz, with clear delivery and failure feedback.
